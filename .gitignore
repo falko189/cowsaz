@@ -2,6 +2,9 @@
 # OS garbage, Editors, IDEs, etc
 #
 vendor
+var/cache
+var/logs
+var/sessions
 *.log
 .DS_Store
 .svn
